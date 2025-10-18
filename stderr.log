@@ -1,0 +1,610 @@
+/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/lib/router-utils/filesystem.js:148
+            throw Object.defineProperty(new Error(`Could not find a production build in the '${opts.config.distDir}' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id`), "__NEXT_ERROR_CODE", {
+                                        ^
+
+Error: Could not find a production build in the '.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at setupFsCheck (/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/lib/router-utils/filesystem.js:148:41)
+    at async initialize (/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/lib/router-server.js:110:23)
+    at async NextCustomServer.prepare (/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/next.js:276:28)
+
+Node.js v20.19.3
+/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/lib/router-utils/filesystem.js:148
+            throw Object.defineProperty(new Error(`Could not find a production build in the '${opts.config.distDir}' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id`), "__NEXT_ERROR_CODE", {
+                                        ^
+
+Error: Could not find a production build in the '.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at setupFsCheck (/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/lib/router-utils/filesystem.js:148:41)
+    at async initialize (/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/lib/router-server.js:110:23)
+    at async NextCustomServer.prepare (/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/next.js:276:28)
+
+Node.js v20.19.3
+Exception ignored in: <_io.TextIOWrapper name='<stdout>' mode='w' encoding='utf-8'>
+BrokenPipeError: [Errno 32] Broken pipe
+/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/lib/router-utils/filesystem.js:148
+            throw Object.defineProperty(new Error(`Could not find a production build in the '${opts.config.distDir}' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id`), "__NEXT_ERROR_CODE", {
+                                        ^
+
+Error: Could not find a production build in the '.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at setupFsCheck (/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/lib/router-utils/filesystem.js:148:41)
+    at async initialize (/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/lib/router-server.js:110:23)
+    at async NextCustomServer.prepare (/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/next.js:276:28)
+
+Node.js v20.19.3
+/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/lib/router-utils/filesystem.js:148
+            throw Object.defineProperty(new Error(`Could not find a production build in the '${opts.config.distDir}' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id`), "__NEXT_ERROR_CODE", {
+                                        ^
+
+Error: Could not find a production build in the '.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at setupFsCheck (/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/lib/router-utils/filesystem.js:148:41)
+    at async initialize (/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/lib/router-server.js:110:23)
+    at async NextCustomServer.prepare (/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/next.js:276:28)
+
+Node.js v20.19.3
+/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/lib/router-utils/filesystem.js:148
+            throw Object.defineProperty(new Error(`Could not find a production build in the '${opts.config.distDir}' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id`), "__NEXT_ERROR_CODE", {
+                                        ^
+
+Error: Could not find a production build in the '.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at setupFsCheck (/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/lib/router-utils/filesystem.js:148:41)
+    at async initialize (/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/lib/router-server.js:110:23)
+    at async NextCustomServer.prepare (/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/next.js:276:28)
+
+Node.js v20.19.3
+/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/lib/router-utils/filesystem.js:148
+            throw Object.defineProperty(new Error(`Could not find a production build in the '${opts.config.distDir}' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id`), "__NEXT_ERROR_CODE", {
+                                        ^
+
+Error: Could not find a production build in the '.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at setupFsCheck (/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/lib/router-utils/filesystem.js:148:41)
+    at async initialize (/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/lib/router-server.js:110:23)
+    at async NextCustomServer.prepare (/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/next.js:276:28)
+
+Node.js v20.19.3
+Exception ignored in: <_io.TextIOWrapper name='<stdout>' mode='w' encoding='utf-8'>
+BrokenPipeError: [Errno 32] Broken pipe
+/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/lib/router-utils/filesystem.js:148
+            throw Object.defineProperty(new Error(`Could not find a production build in the '${opts.config.distDir}' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id`), "__NEXT_ERROR_CODE", {
+                                        ^
+
+Error: Could not find a production build in the '.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at setupFsCheck (/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/lib/router-utils/filesystem.js:148:41)
+    at async initialize (/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/lib/router-server.js:110:23)
+    at async NextCustomServer.prepare (/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/next.js:276:28)
+
+Node.js v20.19.3
+/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/lib/router-utils/filesystem.js:148
+            throw Object.defineProperty(new Error(`Could not find a production build in the '${opts.config.distDir}' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id`), "__NEXT_ERROR_CODE", {
+                                        ^
+
+Error: Could not find a production build in the '.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at setupFsCheck (/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/lib/router-utils/filesystem.js:148:41)
+    at async initialize (/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/lib/router-server.js:110:23)
+    at async NextCustomServer.prepare (/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/next.js:276:28)
+
+Node.js v20.19.3
+/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/lib/router-utils/filesystem.js:148
+            throw Object.defineProperty(new Error(`Could not find a production build in the '${opts.config.distDir}' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id`), "__NEXT_ERROR_CODE", {
+                                        ^
+
+Error: Could not find a production build in the '.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at setupFsCheck (/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/lib/router-utils/filesystem.js:148:41)
+    at async initialize (/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/lib/router-server.js:110:23)
+    at async NextCustomServer.prepare (/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/next.js:276:28)
+
+Node.js v20.19.3
+/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/lib/router-utils/filesystem.js:148
+            throw Object.defineProperty(new Error(`Could not find a production build in the '${opts.config.distDir}' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id`), "__NEXT_ERROR_CODE", {
+                                        ^
+
+Error: Could not find a production build in the '.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at setupFsCheck (/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/lib/router-utils/filesystem.js:148:41)
+    at async initialize (/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/lib/router-server.js:110:23)
+    at async NextCustomServer.prepare (/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/next.js:276:28)
+
+Node.js v20.19.3
+/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/lib/router-utils/filesystem.js:148
+            throw Object.defineProperty(new Error(`Could not find a production build in the '${opts.config.distDir}' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id`), "__NEXT_ERROR_CODE", {
+                                        ^
+
+Error: Could not find a production build in the '.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at setupFsCheck (/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/lib/router-utils/filesystem.js:148:41)
+    at async initialize (/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/lib/router-server.js:110:23)
+    at async NextCustomServer.prepare (/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/next.js:276:28)
+
+Node.js v20.19.3
+/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/lib/router-utils/filesystem.js:148
+            throw Object.defineProperty(new Error(`Could not find a production build in the '${opts.config.distDir}' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id`), "__NEXT_ERROR_CODE", {
+                                        ^
+
+Error: Could not find a production build in the '.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at setupFsCheck (/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/lib/router-utils/filesystem.js:148:41)
+    at async initialize (/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/lib/router-server.js:110:23)
+    at async NextCustomServer.prepare (/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/next.js:276:28)
+
+Node.js v20.19.3
+/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/lib/router-utils/filesystem.js:148
+            throw Object.defineProperty(new Error(`Could not find a production build in the '${opts.config.distDir}' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id`), "__NEXT_ERROR_CODE", {
+                                        ^
+
+Error: Could not find a production build in the '.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at setupFsCheck (/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/lib/router-utils/filesystem.js:148:41)
+    at async initialize (/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/lib/router-server.js:110:23)
+    at async NextCustomServer.prepare (/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/next.js:276:28)
+
+Node.js v20.19.3
+/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/lib/router-utils/filesystem.js:148
+            throw Object.defineProperty(new Error(`Could not find a production build in the '${opts.config.distDir}' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id`), "__NEXT_ERROR_CODE", {
+                                        ^
+
+Error: Could not find a production build in the '.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at setupFsCheck (/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/lib/router-utils/filesystem.js:148:41)
+    at async initialize (/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/lib/router-server.js:110:23)
+    at async NextCustomServer.prepare (/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/next.js:276:28)
+
+Node.js v20.19.3
+/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/lib/router-utils/filesystem.js:148
+            throw Object.defineProperty(new Error(`Could not find a production build in the '${opts.config.distDir}' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id`), "__NEXT_ERROR_CODE", {
+                                        ^
+
+Error: Could not find a production build in the '.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at setupFsCheck (/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/lib/router-utils/filesystem.js:148:41)
+    at async initialize (/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/lib/router-server.js:110:23)
+    at async NextCustomServer.prepare (/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/next.js:276:28)
+
+Node.js v20.19.3
+/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/lib/router-utils/filesystem.js:148
+            throw Object.defineProperty(new Error(`Could not find a production build in the '${opts.config.distDir}' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id`), "__NEXT_ERROR_CODE", {
+                                        ^
+
+Error: Could not find a production build in the '.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at setupFsCheck (/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/lib/router-utils/filesystem.js:148:41)
+    at async initialize (/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/lib/router-server.js:110:23)
+    at async NextCustomServer.prepare (/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/next.js:276:28)
+
+Node.js v20.19.3
+/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/lib/router-utils/filesystem.js:148
+            throw Object.defineProperty(new Error(`Could not find a production build in the '${opts.config.distDir}' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id`), "__NEXT_ERROR_CODE", {
+                                        ^
+
+Error: Could not find a production build in the '.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at setupFsCheck (/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/lib/router-utils/filesystem.js:148:41)
+    at async initialize (/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/lib/router-server.js:110:23)
+    at async NextCustomServer.prepare (/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/next.js:276:28)
+
+Node.js v20.19.3
+/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/lib/router-utils/filesystem.js:148
+            throw Object.defineProperty(new Error(`Could not find a production build in the '${opts.config.distDir}' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id`), "__NEXT_ERROR_CODE", {
+                                        ^
+
+Error: Could not find a production build in the '.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at setupFsCheck (/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/lib/router-utils/filesystem.js:148:41)
+    at async initialize (/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/lib/router-server.js:110:23)
+    at async NextCustomServer.prepare (/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/next.js:276:28)
+
+Node.js v20.19.3
+/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/lib/router-utils/filesystem.js:148
+            throw Object.defineProperty(new Error(`Could not find a production build in the '${opts.config.distDir}' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id`), "__NEXT_ERROR_CODE", {
+                                        ^
+
+Error: Could not find a production build in the '.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at setupFsCheck (/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/lib/router-utils/filesystem.js:148:41)
+    at async initialize (/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/lib/router-server.js:110:23)
+    at async NextCustomServer.prepare (/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/next.js:276:28)
+
+Node.js v20.19.3
+/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/lib/router-utils/filesystem.js:148
+            throw Object.defineProperty(new Error(`Could not find a production build in the '${opts.config.distDir}' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id`), "__NEXT_ERROR_CODE", {
+                                        ^
+
+Error: Could not find a production build in the '.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at setupFsCheck (/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/lib/router-utils/filesystem.js:148:41)
+    at async initialize (/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/lib/router-server.js:110:23)
+    at async NextCustomServer.prepare (/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/next.js:276:28)
+
+Node.js v20.19.3
+Exception ignored in: <_io.TextIOWrapper name='<stdout>' mode='w' encoding='utf-8'>
+BrokenPipeError: [Errno 32] Broken pipe
+/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/lib/router-utils/filesystem.js:148
+            throw Object.defineProperty(new Error(`Could not find a production build in the '${opts.config.distDir}' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id`), "__NEXT_ERROR_CODE", {
+                                        ^
+
+Error: Could not find a production build in the '.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at setupFsCheck (/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/lib/router-utils/filesystem.js:148:41)
+    at async initialize (/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/lib/router-server.js:110:23)
+    at async NextCustomServer.prepare (/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/next.js:276:28)
+
+Node.js v20.19.3
+/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/lib/router-utils/filesystem.js:148
+            throw Object.defineProperty(new Error(`Could not find a production build in the '${opts.config.distDir}' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id`), "__NEXT_ERROR_CODE", {
+                                        ^
+
+Error: Could not find a production build in the '.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at setupFsCheck (/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/lib/router-utils/filesystem.js:148:41)
+    at async initialize (/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/lib/router-server.js:110:23)
+    at async NextCustomServer.prepare (/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/next.js:276:28)
+
+Node.js v20.19.3
+/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/lib/router-utils/filesystem.js:148
+            throw Object.defineProperty(new Error(`Could not find a production build in the '${opts.config.distDir}' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id`), "__NEXT_ERROR_CODE", {
+                                        ^
+
+Error: Could not find a production build in the '.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at setupFsCheck (/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/lib/router-utils/filesystem.js:148:41)
+    at async initialize (/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/lib/router-server.js:110:23)
+    at async NextCustomServer.prepare (/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/next.js:276:28)
+
+Node.js v20.19.3
+/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/lib/router-utils/filesystem.js:148
+            throw Object.defineProperty(new Error(`Could not find a production build in the '${opts.config.distDir}' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id`), "__NEXT_ERROR_CODE", {
+                                        ^
+
+Error: Could not find a production build in the '.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at setupFsCheck (/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/lib/router-utils/filesystem.js:148:41)
+    at async initialize (/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/lib/router-server.js:110:23)
+    at async NextCustomServer.prepare (/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/next.js:276:28)
+
+Node.js v20.19.3
+/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/lib/router-utils/filesystem.js:148
+            throw Object.defineProperty(new Error(`Could not find a production build in the '${opts.config.distDir}' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id`), "__NEXT_ERROR_CODE", {
+                                        ^
+
+Error: Could not find a production build in the '.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at setupFsCheck (/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/lib/router-utils/filesystem.js:148:41)
+    at async initialize (/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/lib/router-server.js:110:23)
+    at async NextCustomServer.prepare (/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/next.js:276:28)
+
+Node.js v20.19.3
+/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/lib/router-utils/filesystem.js:148
+            throw Object.defineProperty(new Error(`Could not find a production build in the '${opts.config.distDir}' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id`), "__NEXT_ERROR_CODE", {
+                                        ^
+
+Error: Could not find a production build in the '.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at setupFsCheck (/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/lib/router-utils/filesystem.js:148:41)
+    at async initialize (/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/lib/router-server.js:110:23)
+    at async NextCustomServer.prepare (/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/next.js:276:28)
+
+Node.js v20.19.3
+/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/lib/router-utils/filesystem.js:148
+            throw Object.defineProperty(new Error(`Could not find a production build in the '${opts.config.distDir}' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id`), "__NEXT_ERROR_CODE", {
+                                        ^
+
+Error: Could not find a production build in the '.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at setupFsCheck (/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/lib/router-utils/filesystem.js:148:41)
+    at async initialize (/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/lib/router-server.js:110:23)
+    at async NextCustomServer.prepare (/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/next.js:276:28)
+
+Node.js v20.19.3
+/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/lib/router-utils/filesystem.js:148
+            throw Object.defineProperty(new Error(`Could not find a production build in the '${opts.config.distDir}' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id`), "__NEXT_ERROR_CODE", {
+                                        ^
+
+Error: Could not find a production build in the '.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at setupFsCheck (/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/lib/router-utils/filesystem.js:148:41)
+    at async initialize (/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/lib/router-server.js:110:23)
+    at async NextCustomServer.prepare (/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/next.js:276:28)
+
+Node.js v20.19.3
+/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/lib/router-utils/filesystem.js:148
+            throw Object.defineProperty(new Error(`Could not find a production build in the '${opts.config.distDir}' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id`), "__NEXT_ERROR_CODE", {
+                                        ^
+
+Error: Could not find a production build in the '.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at setupFsCheck (/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/lib/router-utils/filesystem.js:148:41)
+    at async initialize (/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/lib/router-server.js:110:23)
+    at async NextCustomServer.prepare (/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/next.js:276:28)
+
+Node.js v20.19.3
+Failed to compile.
+
+./src/app/(default)/(auth-pages)/AuthPageTitle.tsx
+Module not found: Can't resolve '@/providers/TranslationProviders'
+
+https://nextjs.org/docs/messages/module-not-found
+
+./src/app/(default)/(auth-pages)/RightBar.tsx
+Module not found: Can't resolve '@/components/ui/ImageLoader'
+
+https://nextjs.org/docs/messages/module-not-found
+
+./src/app/(default)/(auth-pages)/RightBar.tsx
+Module not found: Can't resolve '@/providers/AuthStoreProviders'
+
+https://nextjs.org/docs/messages/module-not-found
+
+./src/app/(default)/(auth-pages)/forgot-password/ForgotPasswordForm.tsx
+Module not found: Can't resolve '@/components/ui/Button'
+
+https://nextjs.org/docs/messages/module-not-found
+
+./src/app/(default)/(auth-pages)/forgot-password/ForgotPasswordForm.tsx
+Module not found: Can't resolve '@/components/ui/InputGroup'
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+> Build failed because of webpack errors
+❌ Startup error: Error: Could not find a production build in the '.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at async (server.js:20:5)
+Exception ignored in: <_io.TextIOWrapper name='<stdout>' mode='w' encoding='utf-8'>
+BrokenPipeError: [Errno 32] Broken pipe
+❌ Startup error: Error: Could not find a production build in the '.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at async (server.js:20:5)
+❌ Startup error: Error: Could not find a production build in the '.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at async (server.js:20:5)
+❌ Startup error: Error: Could not find a production build in the '.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at async (server.js:20:5)
+❌ Startup error: Error: Could not find a production build in the '.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at async (server.js:20:5)
+❌ Startup error: Error: Could not find a production build in the '.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at async (server.js:20:5)
+❌ Startup error: Error: Could not find a production build in the '.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at async (server.js:20:5)
+❌ Startup error: Error: Could not find a production build in the '.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at async (server.js:20:5)
+❌ Startup error: Error: Could not find a production build in the '.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at async (server.js:20:5)
+❌ Startup error: Error: Could not find a production build in the '.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at async (server.js:20:5)
+❌ Startup error: Error: Could not find a production build in the '.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at async (server.js:20:5)
+❌ Startup error: Error: Could not find a production build in the '.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at async (server.js:20:5)
+❌ Startup error: Error: Could not find a production build in the '.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at async (server.js:20:5)
+❌ Startup error: Error: Could not find a production build in the '.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at async (server.js:20:5)
+❌ Startup error: Error: Could not find a production build in the '.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at async (server.js:20:5)
+❌ Startup error: Error: Could not find a production build in the '.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at async (server.js:20:5)
+❌ Startup error: Error: Could not find a production build in the '.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at async (server.js:20:5)
+❌ Startup error: Error: Could not find a production build in the '.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at async (server.js:20:5)
+node:internal/modules/cjs/loader:1215
+  throw err;
+  ^
+
+Error: Cannot find module 'express'
+Require stack:
+- /home/flumoxne/public_html/QuizFlux/server.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1212:15)
+    at /home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/require-hook.js:55:36
+    at Module._load (node:internal/modules/cjs/loader:1043:27)
+    at Module.require (node:internal/modules/cjs/loader:1298:19)
+    at mod.require (/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/require-hook.js:65:28)
+    at require (node:internal/modules/helpers:182:18)
+    at Object.<anonymous> (/home/flumoxne/public_html/QuizFlux/server.js:2:17)
+    at Module._compile (node:internal/modules/cjs/loader:1529:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1613:10)
+    at Module.load (node:internal/modules/cjs/loader:1275:32) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/flumoxne/public_html/QuizFlux/server.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+
+Node.js v20.19.3
+node:internal/modules/cjs/loader:1215
+  throw err;
+  ^
+
+Error: Cannot find module 'express'
+Require stack:
+- /home/flumoxne/public_html/QuizFlux/server.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1212:15)
+    at /home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/require-hook.js:55:36
+    at Module._load (node:internal/modules/cjs/loader:1043:27)
+    at Module.require (node:internal/modules/cjs/loader:1298:19)
+    at mod.require (/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/require-hook.js:65:28)
+    at require (node:internal/modules/helpers:182:18)
+    at Object.<anonymous> (/home/flumoxne/public_html/QuizFlux/server.js:2:17)
+    at Module._compile (node:internal/modules/cjs/loader:1529:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1613:10)
+    at Module.load (node:internal/modules/cjs/loader:1275:32) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/flumoxne/public_html/QuizFlux/server.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+
+Node.js v20.19.3
+node:internal/modules/cjs/loader:1215
+  throw err;
+  ^
+
+Error: Cannot find module 'express'
+Require stack:
+- /home/flumoxne/public_html/QuizFlux/server.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1212:15)
+    at /home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/require-hook.js:55:36
+    at Module._load (node:internal/modules/cjs/loader:1043:27)
+    at Module.require (node:internal/modules/cjs/loader:1298:19)
+    at mod.require (/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/require-hook.js:65:28)
+    at require (node:internal/modules/helpers:182:18)
+    at Object.<anonymous> (/home/flumoxne/public_html/QuizFlux/server.js:2:17)
+    at Module._compile (node:internal/modules/cjs/loader:1529:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1613:10)
+    at Module.load (node:internal/modules/cjs/loader:1275:32) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/flumoxne/public_html/QuizFlux/server.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+
+Node.js v20.19.3
+Exception ignored in: <_io.TextIOWrapper name='<stdout>' mode='w' encoding='utf-8'>
+BrokenPipeError: [Errno 32] Broken pipe
+node:internal/modules/cjs/loader:1215
+  throw err;
+  ^
+
+Error: Cannot find module 'express'
+Require stack:
+- /home/flumoxne/public_html/QuizFlux/server.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1212:15)
+    at /home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/require-hook.js:55:36
+    at Module._load (node:internal/modules/cjs/loader:1043:27)
+    at Module.require (node:internal/modules/cjs/loader:1298:19)
+    at mod.require (/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/require-hook.js:65:28)
+    at require (node:internal/modules/helpers:182:18)
+    at Object.<anonymous> (/home/flumoxne/public_html/QuizFlux/server.js:2:17)
+    at Module._compile (node:internal/modules/cjs/loader:1529:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1613:10)
+    at Module.load (node:internal/modules/cjs/loader:1275:32) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/flumoxne/public_html/QuizFlux/server.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+
+Node.js v20.19.3
+node:internal/modules/cjs/loader:1215
+  throw err;
+  ^
+
+Error: Cannot find module 'express'
+Require stack:
+- /home/flumoxne/public_html/QuizFlux/server.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1212:15)
+    at /home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/require-hook.js:55:36
+    at Module._load (node:internal/modules/cjs/loader:1043:27)
+    at Module.require (node:internal/modules/cjs/loader:1298:19)
+    at mod.require (/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/require-hook.js:65:28)
+    at require (node:internal/modules/helpers:182:18)
+    at Object.<anonymous> (/home/flumoxne/public_html/QuizFlux/server.js:2:17)
+    at Module._compile (node:internal/modules/cjs/loader:1529:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1613:10)
+    at Module.load (node:internal/modules/cjs/loader:1275:32) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/flumoxne/public_html/QuizFlux/server.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+
+Node.js v20.19.3
+Exception ignored in: <_io.TextIOWrapper name='<stdout>' mode='w' encoding='utf-8'>
+BrokenPipeError: [Errno 32] Broken pipe
+node:internal/modules/cjs/loader:1215
+  throw err;
+  ^
+
+Error: Cannot find module 'express'
+Require stack:
+- /home/flumoxne/public_html/QuizFlux/server.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1212:15)
+    at /home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/require-hook.js:55:36
+    at Module._load (node:internal/modules/cjs/loader:1043:27)
+    at Module.require (node:internal/modules/cjs/loader:1298:19)
+    at mod.require (/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/require-hook.js:65:28)
+    at require (node:internal/modules/helpers:182:18)
+    at Object.<anonymous> (/home/flumoxne/public_html/QuizFlux/server.js:2:17)
+    at Module._compile (node:internal/modules/cjs/loader:1529:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1613:10)
+    at Module.load (node:internal/modules/cjs/loader:1275:32) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/flumoxne/public_html/QuizFlux/server.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+
+Node.js v20.19.3
+node:internal/modules/cjs/loader:1215
+  throw err;
+  ^
+
+Error: Cannot find module 'express'
+Require stack:
+- /home/flumoxne/public_html/QuizFlux/server.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1212:15)
+    at /home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/require-hook.js:55:36
+    at Module._load (node:internal/modules/cjs/loader:1043:27)
+    at Module.require (node:internal/modules/cjs/loader:1298:19)
+    at mod.require (/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/require-hook.js:65:28)
+    at require (node:internal/modules/helpers:182:18)
+    at Object.<anonymous> (/home/flumoxne/public_html/QuizFlux/server.js:2:17)
+    at Module._compile (node:internal/modules/cjs/loader:1529:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1613:10)
+    at Module.load (node:internal/modules/cjs/loader:1275:32) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/flumoxne/public_html/QuizFlux/server.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+
+Node.js v20.19.3
+node:internal/modules/cjs/loader:1215
+  throw err;
+  ^
+
+Error: Cannot find module 'express'
+Require stack:
+- /home/flumoxne/public_html/QuizFlux/server.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1212:15)
+    at /home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/require-hook.js:55:36
+    at Module._load (node:internal/modules/cjs/loader:1043:27)
+    at Module.require (node:internal/modules/cjs/loader:1298:19)
+    at mod.require (/home/flumoxne/nodevenv/public_html/QuizFlux/20/lib/node_modules/next/dist/server/require-hook.js:65:28)
+    at require (node:internal/modules/helpers:182:18)
+    at Object.<anonymous> (/home/flumoxne/public_html/QuizFlux/server.js:2:17)
+    at Module._compile (node:internal/modules/cjs/loader:1529:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1613:10)
+    at Module.load (node:internal/modules/cjs/loader:1275:32) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/flumoxne/public_html/QuizFlux/server.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+
+Node.js v20.19.3
+❌ Error starting server: [Error: Could not find a production build in the '.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id]
+❌ Error starting server: [Error: Could not find a production build in the '.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id]
+❌ Error starting server: [Error: Could not find a production build in the '.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id]
+❌ Error starting server: [Error: Could not find a production build in the '.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id]
+❌ Error starting server: [Error: Could not find a production build in the '.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id]
+❌ Error starting server: [Error: Could not find a production build in the '.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id]
+❌ Error starting server: [Error: Could not find a production build in the '.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id]
+❌ Error starting server: [Error: Could not find a production build in the '.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id]
+❌ Error starting server: [Error: Could not find a production build in the '.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id]
+❌ Error starting server: [Error: Could not find a production build in the '.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id]
+❌ Error starting server: [Error: Could not find a production build in the '.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id]
+❌ Error starting server: [Error: Could not find a production build in the '.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id]
+❌ Error starting server: [Error: Could not find a production build in the '.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id]
+❌ Error starting server: [Error: Could not find a production build in the '.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id]
+❌ Error starting server: [Error: Could not find a production build in the '.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id]
+❌ Error starting server: [Error: Could not find a production build in the '.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id]
+❌ Error starting server: [Error: Could not find a production build in the '.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id]
+❌ Error starting server: [Error: Could not find a production build in the '.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id]
+❌ Error starting server: [Error: Could not find a production build in the '.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id]
+Exception ignored in: <_io.TextIOWrapper name='<stdout>' mode='w' encoding='utf-8'>
+BrokenPipeError: [Errno 32] Broken pipe
+❌ Error starting server: [Error: Could not find a production build in the '.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id]
+❌ Error starting server: [Error: Could not find a production build in the '.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id]
+❌ Error starting server: [Error: Could not find a production build in the '.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id]
+❌ Error starting server: [Error: Could not find a production build in the '.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id]
+❌ Error starting server: [Error: Could not find a production build in the '.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id]
+❌ Error starting server: [Error: Could not find a production build in the '.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id]
+ ⚠ You are using a non-standard "NODE_ENV" value in your environment. This creates inconsistencies in the project and is strongly advised against. Read more: https://nextjs.org/docs/messages/non-standard-node-env
+[TypeError: Cannot read properties of undefined (reading 'endsWith')]
+ ⚠ You are using a non-standard "NODE_ENV" value in your environment. This creates inconsistencies in the project and is strongly advised against. Read more: https://nextjs.org/docs/messages/non-standard-node-env
+[TypeError: Cannot read properties of undefined (reading 'endsWith')]
+ ⚠ You are using a non-standard "NODE_ENV" value in your environment. This creates inconsistencies in the project and is strongly advised against. Read more: https://nextjs.org/docs/messages/non-standard-node-env
+[TypeError: Cannot read properties of undefined (reading 'endsWith')]
+ ⚠ You are using a non-standard "NODE_ENV" value in your environment. This creates inconsistencies in the project and is strongly advised against. Read more: https://nextjs.org/docs/messages/non-standard-node-env
+[TypeError: Cannot read properties of undefined (reading 'endsWith')]
